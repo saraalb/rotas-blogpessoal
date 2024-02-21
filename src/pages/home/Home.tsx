@@ -1,4 +1,5 @@
-import homeLogo from '../../assets/casa.png'
+
+import homeLogo from '../../assets/home.png'
 import './Home.css';
 
 
